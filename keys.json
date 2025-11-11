@@ -1,6 +1,16 @@
 {
-  "zona": {
-    "valid_days": 7,
-    "used_by": "",
-    "permanent": false
-  },
+  "keys": [
+    {
+      "key": "ABC123",
+      "created": "2025-11-11T12:00:00",
+      "days": "30",
+      "hwid": ""   // vazio até ser usado
+    },
+    {
+      "key": "XYZ789",
+      "created": "2025-11-01T12:00:00",
+      "days": "vitalicio",
+      "hwid": "hash_do_pc"
+    }
+  ]
+}
