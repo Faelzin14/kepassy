@@ -8,6 +8,37 @@
     "valid_days": 1,
     "used_by": "",
     "permanent": true
-  }
+  },
+  "keys": [
+    {
+      "key": "ZONAXIT-CA3Z4P-82YQNH-VITALICIO",
+      "created": "2025-11-11T22:58:49.251963",
+      "days": "vitalicio",
+      "hwid": "37522697683435"
+    },
+    {
+      "key": "ZONAXIT-FLLM25-N8F3PO-VITALICIO",
+      "created": "2025-11-11T22:58:49.251963",
+      "days": "vitalicio",
+      "hwid": "37522697683435"
+    },
+    {
+      "key": "ZONAXIT-K28IRE-DI5YQY-VITALICIO",
+      "created": "2025-11-11T22:58:49.251963",
+      "days": "vitalicio",
+      "hwid": "37522697683435"
+    },
+    {
+      "key": "ZONAXIT-KZ4H9D-DX62NV-VITALICIO",
+      "created": "2025-11-11T22:58:49.251963",
+      "days": "vitalicio",
+      "hwid": "37522697683435"
+    },
+    {
+      "key": "ZONAXIT-2ARFCI-1L45KL-VITALICIO",
+      "created": "2025-11-11T22:58:49.251963",
+      "days": "vitalicio",
+      "hwid": "37522697683435"
+    }
+  ]
 }
-
