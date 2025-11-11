@@ -1,1 +1,13 @@
+{
+  "zona": {
+    "valid_days": 7,
+    "used_by": "",
+    "permanent": false
+  },
+  "fael": {
+    "valid_days": 1,
+    "used_by": "",
+    "permanent": true
+  }
+}
 
