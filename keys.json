@@ -1,3 +1,34 @@
 {
-  "keys": []
+  "keys": [
+    {
+      "key": "ZONAXIT-L62JK0-9KQA0M-BCVPHX",
+      "created": "2025-11-11T22:46:41.514006",
+      "days": 1,
+      "hwid": ""
+    },
+    {
+      "key": "ZONAXIT-MYLJ19-LYT3PU-VVB3YQ",
+      "created": "2025-11-11T22:46:41.514006",
+      "days": 1,
+      "hwid": ""
+    },
+    {
+      "key": "ZONAXIT-0ZDL9S-PHE8CN-WZKJR9",
+      "created": "2025-11-11T22:46:41.514006",
+      "days": 1,
+      "hwid": ""
+    },
+    {
+      "key": "ZONAXIT-VWQBUL-ES3FF8-O48U30",
+      "created": "2025-11-11T22:46:41.514006",
+      "days": 1,
+      "hwid": ""
+    },
+    {
+      "key": "ZONAXIT-CV4X72-G58BEM-ULEG0A",
+      "created": "2025-11-11T22:46:41.514006",
+      "days": 1,
+      "hwid": ""
+    }
+  ]
 }
