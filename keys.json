@@ -18,7 +18,8 @@
       "key": "ZONAXIT-BGKHEX-P2NHF7-vitalicio",
       "created_at": "2025-11-12T18:47:51.309500Z",
       "expires_at": null,
-      "permanent": true
+      "permanent": true,
+      "hwid": "d2cabc9cda78926ee2a2c435f8553495403e4be5221657ce31fb75b2fbc50565"
     },
     {
       "key": "ZONAXIT-U1EU2K-BJW2Y8-vitalicio",
