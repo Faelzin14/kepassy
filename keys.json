@@ -30,6 +30,12 @@
       "created_at": "2025-11-12T18:47:51.309549Z",
       "expires_at": null,
       "permanent": true
+    },
+    {
+      "key": "ZONAXIT-1M39KJ-UD4JLN-LT49DX",
+      "created_at": "2025-11-12T18:48:38.471082Z",
+      "permanent": false,
+      "expires_at": "2025-11-13"
     }
   ]
 }
