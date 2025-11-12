@@ -1,10 +1,32 @@
-{
-  "keys": [
-    {
-      "key": "ZONAXIT-ABCDEF-GHIJKL-MNOPQR",
-      "days": 30,
-      "created": "2025-11-12T00:00:00Z",
-      "hwid": "d2cabc9cda78926ee2a2c435f8553495403e4be5221657ce31fb75b2fbc50565"
-    }
-  ]
-}
+[
+  {
+    "key": "ZONAXIT-OBLGJ7-OA2KP6-vitalicio",
+    "created_at": "2025-11-12T18:44:34.000266Z",
+    "expires_at": null,
+    "permanent": true
+  },
+  {
+    "key": "ZONAXIT-NMRVQN-8LR1MV-vitalicio",
+    "created_at": "2025-11-12T18:44:34.000341Z",
+    "expires_at": null,
+    "permanent": true
+  },
+  {
+    "key": "ZONAXIT-KFF73B-ZYU5CE-vitalicio",
+    "created_at": "2025-11-12T18:44:34.000376Z",
+    "expires_at": null,
+    "permanent": true
+  },
+  {
+    "key": "ZONAXIT-CCCVJK-HLALRN-vitalicio",
+    "created_at": "2025-11-12T18:44:34.000402Z",
+    "expires_at": null,
+    "permanent": true
+  },
+  {
+    "key": "ZONAXIT-KBCYHJ-UY5FQF-vitalicio",
+    "created_at": "2025-11-12T18:44:34.000430Z",
+    "expires_at": null,
+    "permanent": true
+  }
+]
