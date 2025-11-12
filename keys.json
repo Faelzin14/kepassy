@@ -1,8 +1,9 @@
-[
-  {
-    "key": "ZONAXIT-ZESVRZ-XAHM5J-vitalicio",
-    "created_at": "2025-11-12T18:36:50.080049Z",
-    "expires_at": null,
-    "permanent": true
-  }
-]
+{
+  "keys": [
+    {
+      "key": "ZONAXIT-123456-ABCDEF-654321",
+      "days": "vitalicio",
+      "created": "2025-11-12T00:00:00"
+    }
+  ]
+}
