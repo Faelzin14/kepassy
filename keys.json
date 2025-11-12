@@ -1,10 +1,8 @@
-{
-  "keys": [
-    {
-      "key": "ZONAXIT-ABCDEF-GHIJKL-MNOPQR",
-      "days": 30,
-      "created": "2025-11-12T00:00:00Z",
-      "hwid": "d2cabc9cda78926ee2a2c435f8553495403e4be5221657ce31fb75b2fbc50565"
-    }
-  ]
-}
+[
+  {
+    "key": "ZONAXIT-ZESVRZ-XAHM5J-vitalicio",
+    "created_at": "2025-11-12T18:36:50.080049Z",
+    "expires_at": null,
+    "permanent": true
+  }
+]
