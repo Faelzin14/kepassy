@@ -4,7 +4,8 @@
       "key": "ZONAXIT-15EKGC-4LTNBT-vitalicio",
       "created_at": "2025-11-12T18:47:51.309401Z",
       "expires_at": null,
-      "permanent": true
+      "permanent": true,
+      "hwid": "d2cabc9cda78926ee2a2c435f8553495403e4be5221657ce31fb75b2fbc50565"
     },
     {
       "key": "ZONAXIT-WN2L84-R9DAKI-vitalicio",
