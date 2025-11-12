@@ -1,16 +1,32 @@
-{
-  "keys": [
-    {
-      "key": "ABC123",
-      "created": "2025-11-11T12:00:00",
-      "days": "30",
-      "hwid": ""   // vazio até ser usado
-    },
-    {
-      "key": "XYZ789",
-      "created": "2025-11-01T12:00:00",
-      "days": "vitalicio",
-      "hwid": "hash_do_pc"
-    }
-  ]
-}
+[
+  {
+    "key": "ZONAXIT-QATUX0-BUN5RL-TJ8WK3",
+    "created_at": "2025-11-12T18:23:06.117332Z",
+    "permanent": false,
+    "expires_at": "2025-12-12"
+  },
+  {
+    "key": "ZONAXIT-ENVL97-UFNY3F-GF262T",
+    "created_at": "2025-11-12T18:23:06.119838Z",
+    "permanent": false,
+    "expires_at": "2025-12-12"
+  },
+  {
+    "key": "ZONAXIT-JEJ1CZ-702MCC-A3L7AO",
+    "created_at": "2025-11-12T18:23:06.119887Z",
+    "permanent": false,
+    "expires_at": "2025-12-12"
+  },
+  {
+    "key": "ZONAXIT-1HM479-EBQF7V-A2CHAO",
+    "created_at": "2025-11-12T18:23:06.119931Z",
+    "permanent": false,
+    "expires_at": "2025-12-12"
+  },
+  {
+    "key": "ZONAXIT-F7ZZKJ-V53JCY-T2UGSC",
+    "created_at": "2025-11-12T18:23:06.119971Z",
+    "permanent": false,
+    "expires_at": "2025-12-12"
+  }
+]
