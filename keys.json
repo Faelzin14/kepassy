@@ -1,32 +1,9 @@
-[
-  {
-    "key": "ZONAXIT-VC5ZZR-C0KS52-vitalicio",
-    "created_at": "2025-11-12T18:40:11.861080Z",
-    "expires_at": null,
-    "permanent": true
-  },
-  {
-    "key": "ZONAXIT-DHZRA6-FX2IOL-vitalicio",
-    "created_at": "2025-11-12T18:40:11.861140Z",
-    "expires_at": null,
-    "permanent": true
-  },
-  {
-    "key": "ZONAXIT-CB72JT-67CY4A-vitalicio",
-    "created_at": "2025-11-12T18:40:11.861168Z",
-    "expires_at": null,
-    "permanent": true
-  },
-  {
-    "key": "ZONAXIT-K0QTEI-L20KPM-vitalicio",
-    "created_at": "2025-11-12T18:40:11.861193Z",
-    "expires_at": null,
-    "permanent": true
-  },
-  {
-    "key": "ZONAXIT-TUZH6M-8INYQH-vitalicio",
-    "created_at": "2025-11-12T18:40:11.861219Z",
-    "expires_at": null,
-    "permanent": true
-  }
-]
+{
+  "keys": [
+    {
+      "key": "ZONAXIT-ABCDEF-GHIJKL-MNOPQR",
+      "days": 30,
+      "created": "2025-11-12T00:00:00Z"
+    }
+  ]
+}
