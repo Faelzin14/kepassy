@@ -1,81 +1,34 @@
 {
   "keys": [
     {
-      "key": "naouse",
-      "created_at": "2025-11-12T18:47:51.309401Z",
-      "expires_at": null,
-      "permanent": true,
-    },
-    {
-      "key": "ZONAXIT-WN2L84-R9DAKI-vitalicio",
-      "created_at": "2025-11-12T18:47:51.309467Z",
-      "expires_at": null,
-      "permanent": true,
-    },
-    {
-      "key": "ZONAXIT-BGKHEX-P2NHF7-vitalicio",
-      "created_at": "2025-11-12T18:47:51.309500Z",
-      "expires_at": null,
-      "permanent": true,
-      "hwid": "d2cabc9cda78926ee2a2c435f8553495403e4be5221657ce31fb75b2fbc50565"
-    },
-    {
-      "key": "ZONAXIT-U1EU2K-BJW2Y8-vitalicio",
-      "created_at": "2025-11-12T18:47:51.309525Z",
-      "expires_at": null,
-      "permanent": true,
-      "hwid": "d2cabc9cda78926ee2a2c435f8553495403e4be5221657ce31fb75b2fbc50565"
-    },
-    {
-      "key": "ZONAXIT-LJW53G-FBEWFY-vitalicio",
-      "created_at": "2025-11-12T18:47:51.309549Z",
-      "expires_at": null,
-      "permanent": true
-    },
-    {
-      "key": "ZONAXIT-1M39KJ-UD4JLN-LT49DX",
-      "created_at": "2025-11-12T18:48:38.471082Z",
+      "key": "ZONAXIT-TTH4G8-CFSG15-Y55PHH",
+      "created_at": "2025-11-13T19:26:03.901587Z",
       "permanent": false,
-      "expires_at": "2025-11-13"
+      "expires_at": "2025-12-13"
     },
     {
-      "key": "ZONAXIT-HVQHYG-AGBG6B-42NV24",
-      "created_at": "2025-11-12T23:21:45.590956Z",
+      "key": "ZONAXIT-4EB7H0-KLY7AI-UUSK5K",
+      "created_at": "2025-11-13T19:26:03.903198Z",
       "permanent": false,
-      "expires_at": "2025-11-13"
+      "expires_at": "2025-12-13"
     },
     {
-      "key": "ZONAXIT-75TN51-RO5EQI-BZ02FW",
-      "created_at": "2025-11-12T23:21:45.591432Z",
+      "key": "ZONAXIT-0GU5LP-LAEJF9-2SP57R",
+      "created_at": "2025-11-13T19:26:03.903248Z",
       "permanent": false,
-      "expires_at": "2025-11-13"
+      "expires_at": "2025-12-13"
     },
     {
-      "key": "ZONAXIT-1ETWPC-K2IF68-1EJF5Q",
-      "created_at": "2025-11-12T23:21:45.591481Z",
+      "key": "ZONAXIT-U4HFNO-TNSKKX-8TU9V4",
+      "created_at": "2025-11-13T19:26:03.903290Z",
       "permanent": false,
-      "expires_at": "2025-11-13",
-      "hwid": "d2cabc9cda78926ee2a2c435f8553495403e4be5221657ce31fb75b2fbc50565"
+      "expires_at": "2025-12-13"
     },
     {
-      "key": "ZONAXIT-YABXY2-6YZSQ7-QLLE9F",
-      "created_at": "2025-11-12T23:21:45.591536Z",
+      "key": "ZONAXIT-SLB3F5-FMWYXX-PL8MMQ",
+      "created_at": "2025-11-13T19:26:03.903331Z",
       "permanent": false,
-      "expires_at": "2025-11-13",
-      "hwid": "d2cabc9cda78926ee2a2c435f8553495403e4be5221657ce31fb75b2fbc50565"
-    },
-    {
-      "key": "ZONAXIT-IWOX7N-PIMUJR-GTD3SK",
-      "created_at": "2025-11-12T23:21:45.591580Z",
-      "permanent": false,
-      "expires_at": "2025-11-13"
-    },
-    {
-      "key": "ZONAXIT-A8210Z-CQZC1L-vitalicio",
-      "created_at": "2025-11-12T23:35:02.339592Z",
-      "expires_at": null,
-      "permanent": true,
-      "hwid": "d2cabc9cda78926ee2a2c435f8553495403e4be5221657ce31fb75b2fbc50565"
+      "expires_at": "2025-12-13"
     }
   ]
 }
